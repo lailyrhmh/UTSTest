@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Transportation</string>
+    <string name="car1">Bugatti Chiron</string>
+    <string name="car2">Mercedes-AMG GT</string>
+    <string name="car3">McLaren 720S</string>
+    <string name="car4">Aston Martin DB11</string>
+    <string name="car5">Ferrari 812 Superfast</string>
+    <string name="car6">Lamborghini Aventador</string>
+    <string name="car7">Koenigsegg Regera</string>
+    <string name="car8">Aston Martin Vanquish</string>
+    <string name="car9">Honda Acura NSX</string>
+    <string name="car10">Nissan GT-R</string>
+
+    <string name="speedCar1">Tenaga: 1500 Horsepower</string>
+    <string name="speedCar2">Tenaga: 550 Horsepower</string>
+    <string name="speedCar3">Tenaga: 720 Horsepower</string>
+    <string name="speedCar4">Tenaga: 600 Horsepower</string>
+    <string name="speedCar5">Tenaga: 812 Horsepower</string>
+    <string name="speedCar6">Tenaga: 730 Horsepower</string>
+    <string name="speedCar7">Tenaga: 1500 Horsepower</string>
+    <string name="speedCar8">Tenaga: 580 Horsepower</string>
+    <string name="speedCar9">Tenaga: 573 Horsepower</string>
+    <string name="speedCar10">Tenaga: 565 Horsepower</string>
+</resources>
